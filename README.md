@@ -6,5 +6,4 @@
 - 💬 Ask me about anything you wish to
 - 📫 How to reach me: https://bit.ly/3RwtU09
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Multitalented
 
