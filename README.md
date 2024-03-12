@@ -7,5 +7,5 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bhavika-chandra/">LinkedIn</a>
 - 😄 Pronouns: she/her
 
-[![Bhavika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavika-Chandra&show_icons=true&theme=radical)
+![Bhavika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavika-Chandra&show_icons=true&theme=radical)
 
